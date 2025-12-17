@@ -1,1 +1,1 @@
-export interface CookiesBannerProps {}
+export type CookiesBannerProps = Record<string, never>;
